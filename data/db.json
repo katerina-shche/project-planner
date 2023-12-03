@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crete new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "New project",
+      "details": "New details ....",
+      "complite": false,
+      "id": 3,
+      "complete": true
+    },
+    {
+      "title": "Code with net ninja",
+      "details": "code code and code lorem ipsum odore",
+      "complite": false,
+      "id": 4,
+      "complete": true
+    }
+  ]
+}

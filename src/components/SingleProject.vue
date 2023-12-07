@@ -34,7 +34,6 @@ export default {
             .catch(err => console.log(err.message))
         },
         toggleComplete() {
-            console.log('toggle complete')
             fetch(this.uri, {
                 method: 'PATCH',
                 headers: { 'Content-Type': 'application/json' },

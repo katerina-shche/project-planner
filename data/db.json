@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "Crete new homepage banner",
+      "title": "Create new homepage scanner",
       "details": "Lorem ipsum",
       "complete": true
     },
@@ -11,7 +11,7 @@
       "details": "New details ....",
       "complite": false,
       "id": 3,
-      "complete": true
+      "complete": false
     },
     {
       "title": "Code with net ninja",

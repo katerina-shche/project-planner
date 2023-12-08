@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### In order to conect to database run:
+```
+json-server --watch data/db.json
+```

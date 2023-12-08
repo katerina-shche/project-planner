@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage scanner",
-      "details": "Lorem ipsum",
+      "title": "Create new banner",
+      "details": "Create new banner Create new banner Create new banner",
       "complete": true
     },
     {
@@ -14,11 +14,17 @@
       "complete": false
     },
     {
-      "title": "Code with net ninja",
+      "title": "Vuex + Firebase",
       "details": "code code and code lorem ipsum odore",
       "complite": false,
       "id": 4,
       "complete": true
+    },
+    {
+      "title": "new new",
+      "details": "lorem lorem",
+      "complite": false,
+      "id": 5
     }
   ]
 }
